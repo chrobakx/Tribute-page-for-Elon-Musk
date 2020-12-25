@@ -1,0 +1,55 @@
+#tribute-info {
+     background: lightgrey;
+    border-radius: 25px;
+    max-width: 800px;
+    text-align: left;
+   margin-left: auto;
+    margin-right: auto;
+}
+#tribute-info li {
+    line-height: 2;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#subtitle {
+    text-align:center;
+    font-style: italic;
+}
+
+#img-caption {
+    font-style:italic;
+    margin-top: 0;
+    text-align: center;
+}
+
+#img-caption {
+    font-style:italic;
+    margin-top: 0;
+    text-align: center;
+}
+
+#footer{
+  text-align: center;
+   margin-left: auto;
+    margin-right: auto;
+}
+
+#quote {
+    font-style: italic;
+  font-size: 20px;
+  text-align: center;
+   margin-left: auto;
+    margin-right: auto;
+}
